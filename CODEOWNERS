@@ -1,4 +1,4 @@
 
 # pattern test
-eslintrc @chdsbd @ac/me/corp
+eslintrc @chdsbd/test @ac/me/corp
 /blah @blah 
