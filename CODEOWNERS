@@ -3,4 +3,4 @@
 
 
 
-debug[a-z].log @chdsbd
+debug?.log @chdsbd
