@@ -1,6 +1,6 @@
 
 # pattern test
-eslintrc @chdsbd/test acme@example
-/blah*** @chdsbd
 
-**logs @chdsbd
+
+logs** @chdsbd
+hello* @chdsbd
