@@ -3,4 +3,4 @@
 
 
 /logs** @chdsbd
-/hello* @chdsbd
+/hello/**/abc @chdsbd
