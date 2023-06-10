@@ -1,4 +1,4 @@
 
 # pattern test
 eslintrc @chdsbd/test acme@example
-/blah** @chdsbd
+/blah*** @chdsbd
