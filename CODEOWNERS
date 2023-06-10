@@ -2,6 +2,5 @@
 # pattern test
 
 
- @chdsbd
-"hello\ " @chdsbd
-hello/123 @chdsbd
+
+[a-zA-Z]ello123 @chdsbd
