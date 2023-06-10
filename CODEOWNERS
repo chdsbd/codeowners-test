@@ -2,5 +2,5 @@
 # pattern test
 
 
-logs** @chdsbd
-hello* @chdsbd
+/logs** @chdsbd
+/hello* @chdsbd
